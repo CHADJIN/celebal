@@ -1,1 +1,1 @@
-Conflict from master
+Conflict from new-feature
